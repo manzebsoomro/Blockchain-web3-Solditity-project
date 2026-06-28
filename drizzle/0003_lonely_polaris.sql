@@ -1,0 +1,1 @@
+ALTER TABLE "mint_requests" ADD COLUMN "email_verified" boolean DEFAULT false NOT NULL;

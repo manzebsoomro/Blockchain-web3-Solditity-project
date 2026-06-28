@@ -1,0 +1,1 @@
+ALTER TABLE "mint_requests" ADD COLUMN "failure_reason" text;

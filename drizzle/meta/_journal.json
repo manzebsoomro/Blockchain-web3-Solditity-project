@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1778478237036,
+      "tag": "0000_typical_the_fury",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1778483252140,
+      "tag": "0001_volatile_the_stranger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1778485693199,
+      "tag": "0002_omniscient_ultimates",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1778485942139,
+      "tag": "0003_lonely_polaris",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1778487001137,
+      "tag": "0004_yielding_forgotten_one",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1778566403937,
+      "tag": "0005_square_deathstrike",
+      "breakpoints": true
+    }
+  ]
+}
